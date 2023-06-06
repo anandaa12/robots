@@ -1,0 +1,9 @@
+.search-box{
+  padding: 30px;
+  width: 500px;
+  height: 16px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: 2px solid gray;
+  font-size: 16px;
+}

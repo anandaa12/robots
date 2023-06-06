@@ -1,0 +1,18 @@
+.card{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: bisque;
+  border-radius: 6px;
+  border: 1px gray solid;
+  padding: 25px;
+  cursor: pointer;
+  transition: transform 0.25 ease-out;
+
+}
+.card:hover{
+  transform: scale(1.05);
+}
+.profile{
+  width: 200px;
+}
